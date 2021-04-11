@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react';
 import { FiChevronRight, FiChevronLeft } from 'react-icons/fi';
 // import { FaQuoteRight } from 'react-icons/fa';
 import './App.css';
-import people from './data';
 import data from './data';
 
 function App() {
